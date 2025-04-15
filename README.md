@@ -69,7 +69,3 @@ Run the script using any Python 3 environment:
 ```bash
 python search_query_anomaly_detection.py
 ```
-
-## 📌 Note
-
-This project is intended for educational or exploratory data analysis purposes. For production-grade anomaly detection, consider integrating machine learning models like Isolation Forest, One-Class SVM, or deep learning-based approaches.
