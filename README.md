@@ -67,5 +67,5 @@ pip install pandas numpy matplotlib
 Run the script using any Python 3 environment:
 
 ```bash
-python search_query_anomaly_detection.py
+python SearchQuery.py
 ```
